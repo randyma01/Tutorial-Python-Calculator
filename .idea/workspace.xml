@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c759b5a-ddb1-4ce6-b76c-fd6e0f1ff8e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1abmGCsDyVqFX0EaDwZArrMZi7i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c759b5a-ddb1-4ce6-b76c-fd6e0f1ff8e0" name="Default Changelist" comment="" />
+      <created>1587012569862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587012569862</updated>
+    </task>
+    <task id="LOCAL-00001" summary="calculator completed">
+      <created>1587073996180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587073996180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/venv" />
+    </ignored-roots>
+    <MESSAGE value="calculator completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator completed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1382" y="130" width="888" height="523" key="CommitChangelistDialog2" timestamp="1587073995712">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1382" y="130" width="888" height="523" key="CommitChangelistDialog2/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587073995712" />
+    <state width="1545" height="262" key="GridCell.Tab.0.bottom" timestamp="1587073620207">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1545" height="262" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587073620207" />
+    <state width="1545" height="262" key="GridCell.Tab.0.center" timestamp="1587073620207">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1545" height="262" key="GridCell.Tab.0.center/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587073620207" />
+    <state width="1545" height="262" key="GridCell.Tab.0.left" timestamp="1587073620207">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1545" height="262" key="GridCell.Tab.0.left/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587073620207" />
+    <state width="1545" height="262" key="GridCell.Tab.0.right" timestamp="1587073620207">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1545" height="262" key="GridCell.Tab.0.right/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587073620207" />
+    <state x="-1445" y="167" key="SettingsEditor" timestamp="1587074650191">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1445" y="167" key="SettingsEditor/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587074650191" />
+    <state x="-1262" y="378" key="com.intellij.ide.util.TipDialog" timestamp="1587074626161">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1262" y="378" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587074626161" />
+    <state x="-1262" y="378" key="com.intellij.ide.util.TipDialog/0.23.1680.1027/-1920.23.1920.1057@0.23.1680.1027" timestamp="1587012972452" />
+    <state x="-1362" y="116" width="816" height="825" key="find.popup" timestamp="1587071977630">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1362" y="116" width="816" height="825" key="find.popup/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587071977630" />
+    <state x="-1250" y="436" key="git4idea.ui.GitStashDialog" timestamp="1587071437651">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1250" y="436" key="git4idea.ui.GitStashDialog/0.23.1680.1027/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587071437651" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+/bin
+/include
+/lib
+Pyvenv.cgf
+
+.DS_Store
+bin/
+lib/
+pyvenv.cfg
