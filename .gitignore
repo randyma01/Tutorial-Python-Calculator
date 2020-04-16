@@ -13,4 +13,4 @@ Pyvenv.cgf
 bin/
 lib/
 pyvenv.cfg
-.idea
+/.idea
