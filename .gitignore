@@ -1,8 +1,14 @@
+# author: randy martinez #
+# proj: tutorial python #
+# module: - #
+
+# dependencies #
 /bin
 /include
 /lib
 Pyvenv.cgf
 
+# misc #
 .DS_Store
 bin/
 lib/
